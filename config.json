@@ -1,0 +1,16 @@
+{
+  "cookies": {
+    "xf_user": "4129684%2C6d00cd7edf54172f12b86cc9766e414a6c26f0be",
+    "xf_tfa_trust": "ya2S0KiIhJPMxSrbLBF657-98qsiBgObh"
+  },
+  "settings": {
+    "timeout": 3600,
+    "thread_timeout": 10,
+    "thread_urls": ["https://lolz.guru/threads/3585935"]
+  },
+  "bot_settings": {
+    "token": "5501973721:AAGQJbCw4oD9K6StNIe3qEUI5OTChIO6Zcs",
+    "owner_id": 5367427116,
+    "logs": 2
+  }
+}
